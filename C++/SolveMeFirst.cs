@@ -1,11 +1,6 @@
 //Solve Me First
 //https://www.hackerrank.com/challenges/solve-me-first/problem
 
-#include <cmath>
-#include <cstdio>
-#include <vector>
-#include <iostream>
-#include <algorithm>
 using namespace std;
 
 int solveMeFirst(int a, int b) {
